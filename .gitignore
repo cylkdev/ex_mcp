@@ -15,3 +15,6 @@ erl_crash.dump
 
 # Local Claude Code runtime logs
 /.claude/hooks/.logs/
+
+# Internal planning docs
+/docs/superpowers/
